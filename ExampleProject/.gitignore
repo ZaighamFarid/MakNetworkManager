@@ -1,0 +1,15 @@
+# Xcode
+xcuserdata/
+*.xcuserdatad
+*.xcuserstate
+.DS_Store
+
+# Build artifacts
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
