@@ -409,7 +409,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Developed with ❤️ for the iOS community
+Developed by Zaigham Farid for the iOS community
 
 ## Acknowledgments
 
